@@ -1,0 +1,18 @@
+{
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Cyber Score",
+        "default_popup": "main.html"
+    },
+    "description": "Cyber Score simple API for website",
+    "homepage_url": "https://github.com/cyber-score",
+    "manifest_version": 2,
+    "name": "Cyber Score",
+    "permissions": [
+        "tabs"
+    ],
+    "icons": {
+        "64": "./icon.png"
+    },
+    "version": "1.0"
+}
